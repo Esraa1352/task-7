@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=NetD2_2 Pin=D1-1
-Added Pin To Net: NetName=GND Pin=D2-1
-Added Pin To Net: NetName=GND Pin=D3-1
-Added Pin To Net: NetName=NetD3_2 Pin=D4-1
-Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD1_1
-Added Member To Class: ClassName=Sheet1 Member=Component Q3 MOSFET-N
