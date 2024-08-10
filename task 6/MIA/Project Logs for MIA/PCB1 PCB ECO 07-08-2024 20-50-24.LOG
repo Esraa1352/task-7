@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=mcu GND Pin=1-01
+Removed Pin From Net: NetName=1 Pin=1-02
+Removed Pin From Net: NetName=mcu GND Pin=2-01
+Removed Pin From Net: NetName=mcu 2 Pin=2-02
+Removed Member From Class: ClassName=Sheet1 Member=1
+Removed Member From Class: ClassName=Sheet1 Member=2
+Added Component: Designator=J(SAMTEC_TSW-104-24-G-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-24-G-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSW-104-24-G-S/Samtec/view-part/3451889/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J-02
+Added Pin To Net: NetName=mcu 2 Pin=J-03
+Added Pin To Net: NetName=GND Pin=J-04
+Added Pin To Net: NetName=mcu1 Pin=J-01
+Added Net: Name=mcu1
+Added Member To Class: ClassName=Sheet1 Member=Component J mcu
